@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "name":"Dosa",
+        "price":"$25.23",
+        "image":"./images/dhosh.png"
+    },
+
+     {
+        "id":2,
+        "name":"idli",
+        "price":"$20",
+        "image":"./images/idli.jpg"
+    },
+     {
+        "id":3,
+        "name":"franki",
+        "price":"$50",
+        "image":"./images/franki.jpg"
+    },
+     {
+        "id":4,
+        "name":" Burger",
+        "price":"$24",
+        "image":"./images/burger.jpg"
+    },
+     {
+        "id":5,
+        "name":"chicken Burger",
+        "price":"$200",
+        "image":"./images/chicken burger.jpg"
+    },
+     {
+        "id":6,
+        "name":"icecream",
+        "price":"$100",
+        "image":"./images/icecream.jpg"
+    },
+     {
+        "id":7,
+        "name":"pizza",
+        "price":"$400",
+        "image":"./images/pizza.jpg"
+    },
+     {
+        "id":8,
+        "name":"veg thali",
+        "price":"$60",
+        "image":"./images/veg-thali.webp"
+    }
+     
+]
